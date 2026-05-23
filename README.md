@@ -1,11 +1,9 @@
-Public outreach materials on gravitational wave astronomy and cosmology.
- 
----
- 
 ## A Violent Game of Cosmic Hide-and-Seek: Where Do Black Holes Collide?
  
 **Event:** Pint of Science Festival (Bangalore)
+
 **Date:** May 20, 2026
+
 **Speaker:** Sumedha Biswas, Radboud University Nijmegen
  
 ### Abstract
